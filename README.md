@@ -6,3 +6,6 @@ To run the Colab notebooks with R:
  
 - Change the programming language (Python notebook into an R notebook) by simply clicking the runtime type and changing from Python3 to R.
 
+
+**List of tutorials**
+* Bioinformatic analysis in R → Open notebook(https://colab.research.google.com/drive/1MMZIwJSZniaJGCo75VAtdIDrT0aMPBOg?usp=sharing)
